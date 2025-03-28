@@ -57,3 +57,5 @@ void clipping(int xa, int ya, int xb, int yb) {
     if (visible1 == 1 && visible2 == 0)
         outtextxy(20, 20, "completely visible");
 }
+
+// for algorithm copy the link https://chatgpt.com/share/67e64c40-5c0c-800d-a272-469165b2bbb6 and give the given code to it 

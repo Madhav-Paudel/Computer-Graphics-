@@ -54,3 +54,5 @@ int main() {
     closegraph(); 
     return 0;
 }
+
+// for algorithm copy the link https://chatgpt.com/share/67e64c40-5c0c-800d-a272-469165b2bbb6 and give the given code to it 
